@@ -25,5 +25,3 @@ The devices we must prepare code for are:
 8. n-bit Shift/Rotate unit with left and right shift inputs
 9. 4-input multiplexer
 10. Shift control logic
-
-
