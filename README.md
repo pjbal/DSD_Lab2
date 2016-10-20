@@ -20,7 +20,7 @@ The devices we must prepare code for are:
 3. n-bit 2-input multiplexer (mux) - hint: use a for-generate loop with generic bit-width
 4. 4-bit Adder/Subtractor
 5. 4-bit LAC Adder
-6. n-bit Adder
+6. n-bit Adder (Patrick)
 7. 1-bit logic function bit-slice (Logic Slice)
 8. n-bit Shift/Rotate unit with left and right shift inputs
 9. 4-input multiplexer
