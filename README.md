@@ -15,11 +15,11 @@ Top Level devices:
 4. n-bit XOR control (example of a generic width device – code provided)
 
 The devices we must prepare code for are:
-1. 4-bit Arithmetic Unit
-2. n-bit Logic Unit - hint: use a for-generate loop with generic bit-width
-3. n-bit 2-input multiplexer (mux) - hint: use a for-generate loop with generic bit-width
-4. 4-bit Adder/Subtractor
-5. 4-bit LAC Adder
+1. 4-bit Arithmetic Unit (Patrick)
+2. n-bit Logic Unit
+3. n-bit 2-input multiplexer (mux) (Patrick) 
+4. 4-bit Adder/Subtractor (Patrick)
+5. 4-bit LAC Adder (Patrick)
 6. n-bit Adder (Patrick)
 7. 1-bit logic function bit-slice (Logic Slice)
 8. n-bit Shift/Rotate unit with left and right shift inputs
