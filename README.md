@@ -16,12 +16,52 @@ Top Level devices:
 
 The devices we must prepare code for are:
 1. 4-bit Arithmetic Unit (Patrick)
-2. n-bit Logic Unit
+    -Device -Done
+    -TestBench -Done
+    -ucf
+    -Timeing Diagram Screen shot
+2. n-bit Logic Unit (Dev)
+    -Device
+    -TestBench
+    -ucf
+    -Timeing Diagram Screen shot
 3. n-bit 2-input multiplexer (mux) (Patrick) 
+    -Device -Done
+    -TestBench -Done
+    -ucf
+    -Timeing Diagram Screen shot
 4. 4-bit Adder/Subtractor (Patrick)
+    -Device -Done
+    -TestBench -Done
+    -ucf
+    -Timeing Diagram Screen shot
 5. 4-bit LAC Adder (Patrick)
+    -Device -Done
+    -TestBench -Done
+    -ucf
+    -Timeing Diagram Screen shot
 6. n-bit Adder (Patrick)
-7. 1-bit logic function bit-slice (Logic Slice)
-8. n-bit Shift/Rotate unit with left and right shift inputs
-9. 4-input multiplexer
-10. Shift control logic
+    -Device -Done
+    -TestBench -Done
+    -ucf
+    -Timeing Diagram Screen shot
+7. 1-bit logic function bit-slice (Dev)
+    -Device
+    -TestBench
+    -ucf
+    -Timeing Diagram Screen shot
+8. n-bit Shift/Rotate unit with left and right shift inputs (Harry)
+    -Device
+    -TestBench
+    -ucf
+    -Timeing Diagram Screen shot
+9. 4-input multiplexer (Harry)
+    -Device
+    -TestBench
+    -ucf
+    -Timeing Diagram Screen shot
+10. Shift control logic (Harry)
+    -Device
+    -TestBench
+    -ucf
+    -Timeing Diagram Screen shot
