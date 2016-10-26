@@ -1,0 +1,19 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "F[2]" LOC = D12;
+NET "F[1]" LOC = C12;
+NET "F[0]" LOC = C10;
+NET "InA[3]" LOC = J11;
+NET "InA[2]" LOC = J12;
+NET "InA[1]" LOC = H16;
+NET "InA[0]" LOC = H13;
+NET "InB[3]" LOC = G12;
+NET "InB[2]" LOC = E14;
+NET "InB[1]" LOC = D16;
+NET "InB[0]" LOC = B16;
+NET "C_out" LOC = A12;
+NET "Output[3]" LOC = A13;
+NET "Output[2]" LOC = B13;
+NET "Output[1]" LOC = A14;
+NET "Output[0]" LOC = B14;
